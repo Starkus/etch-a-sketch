@@ -1,0 +1,9 @@
+#pixelTable {
+  border-collapse: collapse;
+  border-style: solid;
+}
+
+#pixelTable td {
+  width: 10px;
+  height: 10px;
+}
